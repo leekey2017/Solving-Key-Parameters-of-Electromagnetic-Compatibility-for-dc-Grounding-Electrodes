@@ -1,3 +1,3 @@
 # Solving-Key-Parameters-of-Electromagnetic-Compatibility-for-dc-Grounding-Electrodes
-# please vist the follwing link
+# please vist the following link
 # 
